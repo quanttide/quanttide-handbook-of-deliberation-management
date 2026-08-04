@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: 量潮议事管理手册
+  description: 量潮科技议事管理实践手册
+  keywords: [deliberation, handbook, best-practices]
+  authors:
+    - name: 量潮科技
+      email: opensource@quanttide.com
+  github: https://github.com/quanttide/quanttide-handbook-of-deliberation-management
+  source: https://github.com/quanttide/quanttide-handbook-of-deliberation-management/tree/main
+  toc:
+    - file: index.md
+    - title: 议事管理
+      children:
+        - file: workflow.md
+        - file: playbook.md
+
+site:
+  template: book-theme

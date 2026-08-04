@@ -12,3 +12,5 @@
 
 ### Added
 - 初始化项目结构（README、LICENSE、CHANGELOG）
+- 新增手册主体：议事流程（workflow）与议事管理（playbook）
+- 新增 MyST 配置（myst.yml、index）
